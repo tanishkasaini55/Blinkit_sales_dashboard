@@ -43,7 +43,13 @@ Top Performing Products
 
 📂 Project Files
 
-📊 Download Dashboard (PBIX) Blinkit Analysis Dashboard.pbix
+📊 Download Dashboard (PBIX) /Blinkit%20Analysis%20dashboard.pbix
+
+📑 Download Dataset (Excel) ./BlinkIT%20Grocery%20Data.xlsx
+
+🖼️ Dashboard Screenshot ./dashboard%20preview.png
+
+
 
 📑 Dataset (if available)
 
