@@ -50,13 +50,6 @@ Top Performing Products
 🖼️ Dashboard Screenshot ./dashboard%20preview.png
 
 
-
-📑 Dataset (if available)
-
-
-🖼️ Dashboard Screenshot
-
-
 📸 Dashboard Preview
 
 ![3ee415c9-ac4d-4514-b8e8-1742518c33df](https://github.com/user-attachments/assets/41629457-0afe-4447-9ebe-e3a24f9872c5)
@@ -71,7 +64,3 @@ Create KPIs for AOV, revenue, and delivery time
 
 Build visually engaging dashboards with Power BI
 
-
-Do you want me to also prepare a Main README that links both dashboards together in one repo (like a portfolio)?
-
-ChatGPT can make mistakes. Check important info. See Cookie Preferences.
