@@ -42,13 +42,9 @@ Customer Ratings & Delivery Performance
 Top Performing Products
 
 📂 Project Files
-
-📊 Download Dashboard (PBIX) /Blinkit%20Analysis%20dashboard.pbix
-
-📑 Download Dataset (Excel) ./BlinkIT%20Grocery%20Data.xlsx
-
-🖼️ Dashboard Screenshot ./dashboard%20preview.png
-
+ **Dataset**: [BlinkIT Grocery Data.xlsx](BlinkIT%20Grocery%20Data.xlsx)  
+- 🖼️ **Dashboard Preview (PNG)**: [dashboard preview.png](dashboard%20preview.png)  
+- 📑 **Dashboard Report (PDF)**: [powerbi dash.pdf](powerbi%20dash.pdf)  
 
 📸 Dashboard Preview
 
